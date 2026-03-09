@@ -1,9 +1,7 @@
-```md
 # EDA Agent – CLI EDA Report Generator
 
-# EDA Agent – CLI EDA Report Generator (V1)
+A command-line tool that runs **automatic exploratory data analysis (EDA)** on a CSV file and produces a **Markdown report** with statistics, plots, and LLM-powered insights.
 
-A minimal command-line tool that runs **automatic exploratory data analysis (EDA)** on a CSV file and produces a **Markdown report** with basic statistics and plots.
 
 ## Features
 
